@@ -1,0 +1,7 @@
+Already undergone data augmentation. 
+You can perform further data expansion operations or add new data. 
+Please ensure all images are resized to 224*224 pixels. 
+The images are named as the serial number + '_' + label.
+The images and labels are already matched and corresponding in the txt file.
+You can choose to create the dataset in any format you prefer.
+The test data is already located in the code file.
